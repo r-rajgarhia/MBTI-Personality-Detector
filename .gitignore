@@ -1,1 +1,6 @@
+# Environment file containing actual secrets
 .env
+
+# Python compilation/runtime artifacts
+__pycache__/
+*.pyc
